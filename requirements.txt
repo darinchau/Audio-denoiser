@@ -1,0 +1,26 @@
+certifi-2022.12.7 
+charset-normalizer-2.1.1 
+idna-3.4 
+numpy-1.24.1 
+pillow-9.4.0 
+requests-2.28.1 
+torch-1.13.1+cu117 
+torchaudio-0.13.1+cu117 
+torchvision-0.14.1+cu117 
+typing-extensions-4.4.0 
+urllib3-1.26.13
+pytube-12.1.2
+scipy-1.10.0
+
+# [debug]
+# astroid-2.13.2 
+# colorama-0.4.6 
+# dill-0.3.6 
+# isort-5.11.4 
+# lazy-object-proxy-1.9.0 
+# mccabe-0.7.0 
+# platformdirs-2.6.2 
+# pylint-2.15.9 
+# tomli-2.0.1 
+# tomlkit-0.11.6 
+# wrapt-1.14.1
