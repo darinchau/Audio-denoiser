@@ -1,0 +1,1 @@
+Requires ffmpeg 5.1.2

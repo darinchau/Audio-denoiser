@@ -153,7 +153,11 @@ dmypy.json
 cython_debug/
 
 # My own files
-activate_venv.bat
+activate venv
 
 # vscode
 .vscode
+
+# data
+*.mp4
+ffmpeg_out.txt
