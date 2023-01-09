@@ -161,3 +161,7 @@ activate venv
 # data
 *.mp4
 ffmpeg_out.txt
+data/
+data
+temp.mp4
+temp.wav

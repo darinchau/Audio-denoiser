@@ -12,6 +12,7 @@ urllib3-1.26.13
 pytube-12.1.2
 scipy-1.10.0
 h5py-3.7.0
+tqdm-4.64.1
 
 # [debug]
 # astroid-2.13.2 
